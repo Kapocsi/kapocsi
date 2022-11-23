@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Thomas 
+
+I'm a student and a developer.
+
 
 <!--
 **Kapocsi/kapocsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
